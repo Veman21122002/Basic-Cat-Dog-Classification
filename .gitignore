@@ -1,0 +1,6 @@
+test/
+train/
+# Ignore this notebook
+model.ipynb
+__pycache__/
+*.pyc
